@@ -1,5 +1,5 @@
 
-🔗: *** https://prtkvs.github.io/Recipes-App/ ***
+🔗Visit the Link:  https://prtkvs.github.io/Recipes-App/ 
 ---
 
 ### DESKTOP VIEW:
